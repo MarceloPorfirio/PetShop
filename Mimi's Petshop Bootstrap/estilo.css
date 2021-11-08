@@ -1,0 +1,137 @@
+*{
+   background-color: white; 
+   margin-left: 5px;
+   margin-right: 5px;
+   font-family: cursive;
+
+}
+h1{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background-color: rgb(91, 194, 253);
+   
+}
+
+ h2,h3{
+    
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background-color: rgb(91, 194, 253);
+    border: solid 0.5px rgb(247, 44, 220);  
+    
+}
+.navbar{
+    padding: 20;
+    word-spacing: 25px;
+    height: 60px;
+    margin: 10px;
+    border: solid 0.5px rgb(247, 44, 220);    
+}
+.navbar a{
+   
+    font-size: larger;
+}
+header{
+    margin-top: 5px;
+    border: solid 0.5px;
+    background-color: rgb(91, 194, 253);
+    border-color: rgb(247, 44, 220);
+}
+#containerSobre{
+    border-radius: 12;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 600px;
+    margin-left: 5px;
+    
+}
+#imgLogo{
+    position: absolute;
+    left: 700px;    
+    bottom:50px;
+    box-shadow: rgba(22, 24, 26, 0.418);
+}
+#nossosProdutos{
+    font-size: 18px;
+    width: 80%;
+    margin-left: 20px;
+    margin-top: 10px;    
+}
+#serviços{
+    margin-bottom: 10px;
+}
+#grupo1,#grupo2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 2px;
+    font-size: 14px;
+}
+
+#banhoTosa,#balanceamento,#adestramento{
+    width: 400px;
+    font-size: 22px;
+    color: rgba(22, 24, 26, 0.418);
+}
+
+h4{
+    text-align: center;
+    width: 530px;
+    color:white;
+    background-color:rgb(91, 194, 253);
+    border: solid 0.5px rgb(247, 44, 220);
+}
+#tituloBalan{
+    position: relative;
+    left: 575px;
+    text-align: center;
+    width: 538px;
+    color:white;
+    background-color: rgb(91, 194, 253);
+    border: solid 0.5px rgb(247, 44, 220);
+
+}
+#imgServicos{
+    background-color: white;
+    
+}
+#rod,#primeiro,#segundo,nav p, nav p a,#produtosServicos{
+    background-color: rgb(91, 194, 253);
+    color: white;      
+}
+#rodape{
+    background-color: rgb(91, 194, 253);
+    color: white;
+    padding: 15px;
+    margin: 9px;
+    border: solid 0.5px rgb(247, 44, 220);    
+}
+
+h5{
+    background-color: rgb(91, 194, 253);
+    color: white;
+}
+img{
+    background-color: rgb(91, 194, 253) ;
+}
+#segundo,#terceiro,#quarto{
+    margin-left: 50px;
+    background-color: rgb(91, 194, 253);
+    color: white;   
+}
+#rodape2{
+    background-color: rgb(91, 194, 253);
+    color: white;
+    padding: 15px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    text-align: center;
+    border: solid 0.5px rgb(247, 44, 220);
+}
+#formas{
+    background-color: rgb(91, 194, 253);
+   
+}
